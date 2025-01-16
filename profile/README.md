@@ -5,7 +5,7 @@
 
 Welcome to **[TEQS.io](https://teqs.io)**, where we specialize in geospatial data science and remote sensing to develop advanced solutions for terrain and environment quantification.
 
-![Welcome to TEQS.io](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<!-- ![Welcome to TEQS.io](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) -->
 
 
 </div>
