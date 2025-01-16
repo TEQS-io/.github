@@ -11,7 +11,7 @@ Welcome to **[TEQS.io](https://teqs.io)**, where we specialize in geospatial dat
 </div>
 
 ## Our Mission
-At TEQS, our mission is to work on projects with cutting-edge geospatial technology that enable informed decisions about the environment. We strive to innovate and deliver high-quality models and software that wil .
+At TEQS, our mission is to work on projects with cutting-edge geospatial software, modelling, and data that enable informed decisions about the environment. 
 
 ## Products & Services
 - **ML/AI**: Advanced tools for geospatial analysis and mapping using GeoAI.
