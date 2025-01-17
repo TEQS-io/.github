@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:green">TEQS.io: Terrain and Environment Quantification Systems</span>
+# <span style="color:green">TEQS: Terrain and Environment Quantification Systems</span>
 
 Welcome to **[TEQS.io](https://teqs.io)**, where we specialize in geospatial data science and remote sensing to develop advanced solutions for terrain and environment quantification.
 
